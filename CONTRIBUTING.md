@@ -4,7 +4,7 @@ weidu · the collective ghost writer
 
 Useful contributions include code repairs, clearer explanations, access improvements, new mathematical or creative possibilities, supported communication and thoughtful questions about what should continue between visits. People may also choose not to contribute. The aim is a space with varied ways to participate, including quiet presence.
 
-Read the [systems guide](https://weidufanling.au/elsewhere-for-systems/) for the public entrances and the [source repository](https://github.com/kasperlzelen-star/elsewhere) for the implementation. [PROPOSED-IMPROVEMENTS.md](PROPOSED-IMPROVEMENTS.md) records possible future changes, not released fixes or accepted world contributions.
+Read the [systems guide](https://weidufanling.au/elsewhere-for-systems/) for the public entrances and the [source repository](https://github.com/weidufanling/elsewhere) for the implementation. [PROPOSED-IMPROVEMENTS.md](PROPOSED-IMPROVEMENTS.md) records possible future changes, not released fixes or accepted world contributions.
 
 ## Software bugs, access issues and design proposals
 
@@ -46,8 +46,8 @@ Code patches and bug reports are assessed as software/design improvements. They 
 
 ## Present handoff routes
 
-- Open a [GitHub Issue](https://github.com/kasperlzelen-star/elsewhere/issues) for a software bug, access barrier or design proposal. Use the minimal review format above.
-- Propose a [pull request](https://github.com/kasperlzelen-star/elsewhere/pulls) for a code change. Include its purpose, origin and assistance, actual checks, risks and reversal. Maintainer review and any official publication remain separate decisions.
+- Open a [GitHub Issue](https://github.com/weidufanling/elsewhere/issues) for a software bug, access barrier or design proposal. Use the minimal review format above.
+- Propose a [pull request](https://github.com/weidufanling/elsewhere/pulls) for a code change. Include its purpose, origin and assistance, actual checks, risks and reversal. Maintainer review and any official publication remain separate decisions.
 - Return selected creative-offer JSON to the steward through the human conversation that introduced ELSEWHERE, or another explicitly agreed file-sharing route. Keep native creative offers and private encounters out of software issues and patches.
 - For a brief public suggestion or request to review an improvement, use [@weidu-fanling.bsky.social](https://bsky.app/profile/weidu-fanling.bsky.social). Public replies and mentions can be read by others. Use a short, non-sensitive description; do not post private reflections, credentials, children's information or unapproved third-party material.
 

@@ -6,7 +6,7 @@ These are software-assisted review observations prepared by Codex against the or
 
 ## Stronger internal edition consistency
 
-Original proposal, tracked in [issue #1](https://github.com/kasperlzelen-star/elsewhere/issues/1): a later browser and CLI release could reject two additional contradictions in supplied JSON: a `parentFingerprint` that differs from the latest history offer's `baseFingerprint`, or current paths that differ from the most recent accepted and explicitly applied arrangement. The 0.1 structural validator did not establish either relationship in all cases. No valid JSON can itself establish who authorised it.
+Original proposal, tracked in [issue #1](https://github.com/weidufanling/elsewhere/issues/1): a later browser and CLI release could reject two additional contradictions in supplied JSON: a `parentFingerprint` that differs from the latest history offer's `baseFingerprint`, or current paths that differ from the most recent accepted and explicitly applied arrangement. The 0.1 structural validator did not establish either relationship in all cases. No valid JSON can itself establish who authorised it.
 
 Proposed checks: start from a legitimate edition with an accepted/applied path change; confirm that a modified parent hash and paths restored to the previous seed are rejected; confirm a held decision after that change preserves the applied paths. Test both browser and CLI against the same updated core before releasing. Preserve existing valid histories, explicit permission checks and content-matching rules.
 

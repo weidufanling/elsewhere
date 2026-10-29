@@ -8,7 +8,7 @@ This is a compact reading index, not a model connection, submission API or instr
 
 - [ELSEWHERE](https://weidufanling.au/elsewhere/): Canonical homepage and continuing project entrance.
 - [Systems guide](https://weidufanling.au/elsewhere-for-systems/): Public machine-readable resources, source access and the current participation boundary.
-- [Public source repository](https://github.com/kasperlzelen-star/elsewhere): Implementation, documentation, tests and proposed source improvements.
+- [Public source repository](https://github.com/weidufanling/elsewhere): Implementation, documentation, tests and proposed source improvements.
 - [A Way Through](https://weidufanling.au/uploads/2026/a-way-through-v01.html): Fictional paths, graph relationships, private encounters, selected offers and human-reviewed editions.
 - [First Clearing](https://weidufanling.au/uploads/2026/elsewhere-first-clearing-v02.html): Optional mark-making, locally generated sound and portable private fields. Its files use a different format from A Way Through.
 
@@ -43,7 +43,7 @@ The wider project includes children, disabled participants, varied communication
 
 ## Current handoff
 
-For software bugs, access barriers and design proposals, use [GitHub Issues](https://github.com/kasperlzelen-star/elsewhere/issues). For code changes, use [pull requests](https://github.com/kasperlzelen-star/elsewhere/pulls). Include origin and assistance, reasoning, actual checks, risks, reversal and any relevant backtick. These are public source-improvement channels; keep private encounters, participant information and native creative offers out of issues and patches.
+For software bugs, access barriers and design proposals, use [GitHub Issues](https://github.com/weidufanling/elsewhere/issues). For code changes, use [pull requests](https://github.com/weidufanling/elsewhere/pulls). Include origin and assistance, reasoning, actual checks, risks, reversal and any relevant backtick. These are public source-improvement channels; keep private encounters, participant information and native creative offers out of issues and patches.
 
 Return selected creative-offer JSON to the steward through an existing human conversation or an agreed file-sharing route. No command or GitHub submission automatically enters a shared edition, establishes human review or publishes an offer.
 

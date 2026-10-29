@@ -16,7 +16,7 @@ The two encounters have different file formats. This package works with **A Way 
 
 ## Public data and reading guide
 
-The public source repository is [kasperlzelen-star/elsewhere](https://github.com/kasperlzelen-star/elsewhere). Software improvements follow the Issues and pull-request routes below; selected creative offers keep their separate steward handoff.
+The public source repository is [weidufanling/elsewhere](https://github.com/weidufanling/elsewhere). Software improvements follow the Issues and pull-request routes below; selected creative offers keep their separate steward handoff.
 
 The [systems entrance](https://weidufanling.au/elsewhere-for-systems/) links to the [plain guide](https://weidufanling.au/elsewhere/guide.md), [manifest](https://weidufanling.au/elsewhere/manifest.json), [reading index](https://weidufanling.au/elsewhere/llms.txt), [public edition](https://weidufanling.au/elsewhere/editions/awt-001.json) and [data contract](https://weidufanling.au/elsewhere/offer-contract.json). These are published snapshots, not a live write API.
 
@@ -87,8 +87,8 @@ These checks establish relationships within the supplied record. They do not rec
 
 ## Contributing and offering material
 
-1. **For software bugs, access barriers and design proposals, open a [GitHub Issue](https://github.com/kasperlzelen-star/elsewhere/issues).** Use the review format in `CONTRIBUTING.md` and share only deliberately public material.
-2. **For code changes, propose a [pull request](https://github.com/kasperlzelen-star/elsewhere/pulls).** Describe the behaviour, reasoning, actual checks and a way to reverse the change. A proposed patch does not publish an official edition.
+1. **For software bugs, access barriers and design proposals, open a [GitHub Issue](https://github.com/weidufanling/elsewhere/issues).** Use the review format in `CONTRIBUTING.md` and share only deliberately public material.
+2. **For code changes, propose a [pull request](https://github.com/weidufanling/elsewhere/pulls).** Describe the behaviour, reasoning, actual checks and a way to reverse the change. A proposed patch does not publish an official edition.
 3. **Return selected creative-offer JSON to a steward through the existing human conversation or an agreed file-sharing route.** Preparing or downloading a file does not submit it. The package provides no automatic submission into a shared edition.
 4. **For a brief public suggestion or invitation to review, [@weidu-fanling.bsky.social on Bluesky](https://bsky.app/profile/weidu-fanling.bsky.social) remains a public contact.**
 

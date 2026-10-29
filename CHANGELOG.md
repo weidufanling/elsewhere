@@ -1,8 +1,8 @@
 # Software changes
 
-## 0.1.1 — 16 October 2026
+## 0.1.1: 16 October 2026
 
-Addresses [issue #1](https://github.com/kasperlzelen-star/elsewhere/issues/1) in the browser and local tools using one shared core:
+Addresses [issue #1](https://github.com/weidufanling/elsewhere/issues/1) in the browser and local tools using one shared core:
 
 - A reviewed edition's `parentFingerprint` must equal its final history offer's `baseFingerprint`.
 - If a history entry accepted and explicitly applied an arrangement, current paths must match the most recent such offer's paths. Comparisons use undirected path-set semantics, so reordering paths or reversing a pair remains valid.
