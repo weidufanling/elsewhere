@@ -3,3 +3,11 @@ node_modules/
 *.private.json
 private/
 local-evidence/
+
+# Security baseline: local credentials and private scan material
+.env
+.env.*
+!.env.example
+security-reports/
+__pycache__/
+*.py[cod]
